@@ -2,8 +2,11 @@
 
 A beautiful and animated Android OTP input UI library built with Jetpack Compose, featuring multiple modern input styles with smooth animations.
 
-![OTP Box Screenshot 1](app/src/main/res/drawable/img1.png)
-![OTP Box Screenshot 2](app/src/main/res/drawable/img2.png)
+<p align="center">
+  <img src="app/src/main/res/drawable/img1.png" alt="OTP Box Screenshot 1" width="45%" />
+  <img src="app/src/main/res/drawable/img2.png" alt="OTP Box Screenshot 2" width="45%" />
+</p>
+
 
 ## Features
 

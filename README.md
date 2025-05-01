@@ -27,7 +27,6 @@ A beautiful and animated Android OTP input UI library built with Jetpack Compose
 
 ### UI Components
 - 🎨 Material Design 3 components
-- 🌙 Dark mode support
 - 📱 Responsive layouts
 - 🎯 Interactive focus states
 - ⚡ Real-time validation feedback
@@ -54,7 +53,7 @@ A beautiful and animated Android OTP input UI library built with Jetpack Compose
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/OtpBox.git
+git clone https://github.com/SatyamkrJha85/OTP_BOX
 ```
 
 2. Open the project in Android Studio
